@@ -5,5 +5,5 @@
 	password: <input type="password" name="password"/><br/>
 	yourmail: <input type="text" name="email"/><br/>
 	yourfile: <input type="file" name="myfiles"/><br/>	
-	<input type="submit" value="添加新用户"/>
+	<input type="submit" value="娣诲姞"/>
 </form>
